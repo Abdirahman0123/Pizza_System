@@ -1,0 +1,37 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\buqaa\\Documents\\C# Practise\\C# Web API\\Pizza_System\\Pizza_System\\wwwroot\\lib\\foolproof-validation\\mvcfoolproof.core.js",
+      "PackagePath": "staticwebassets\\lib\\foolproof-validation\\mvcfoolproof.core.js"
+    },
+    {
+      "Id": "C:\\Users\\buqaa\\Documents\\C# Practise\\C# Web API\\Pizza_System\\Pizza_System\\wwwroot\\lib\\foolproof-validation\\mvcfoolproof.jquery.validation.js",
+      "PackagePath": "staticwebassets\\lib\\foolproof-validation\\mvcfoolproof.jquery.validation.js"
+    },
+    {
+      "Id": "C:\\Users\\buqaa\\Documents\\C# Practise\\C# Web API\\Pizza_System\\Pizza_System\\wwwroot\\lib\\foolproof-validation\\mvcfoolproof.msajax.validation.js",
+      "PackagePath": "staticwebassets\\lib\\foolproof-validation\\mvcfoolproof.msajax.validation.js"
+    },
+    {
+      "Id": "C:\\Users\\buqaa\\Documents\\C# Practise\\C# Web API\\Pizza_System\\Pizza_System\\wwwroot\\lib\\foolproof-validation\\mvcfoolproof.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\foolproof-validation\\mvcfoolproof.unobtrusive.js"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Pizza_System.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Pizza_System.props",
+      "PackagePath": "build\\Pizza_System.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Pizza_System.props",
+      "PackagePath": "buildMultiTargeting\\Pizza_System.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Pizza_System.props",
+      "PackagePath": "buildTransitive\\Pizza_System.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

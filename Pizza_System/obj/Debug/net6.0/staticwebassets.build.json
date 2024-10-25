@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "Hash": "/alug4Ec+XbuRxwkLoIjZhdRWoAH7YDou6AZJxBsm3Y=",
+  "Source": "Pizza_System",
+  "BasePath": "_content/Pizza_System",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Pizza_System\\wwwroot",
+      "Source": "Pizza_System",
+      "ContentRoot": "C:\\Users\\buqaa\\Documents\\C# Practise\\C# Web API\\Pizza_System\\Pizza_System\\wwwroot\\",
+      "BasePath": "_content/Pizza_System",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\buqaa\\Documents\\C# Practise\\C# Web API\\Pizza_System\\Pizza_System\\wwwroot\\lib\\foolproof-validation\\mvcfoolproof.core.js",
+      "SourceId": "Pizza_System",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\buqaa\\Documents\\C# Practise\\C# Web API\\Pizza_System\\Pizza_System\\wwwroot\\",
+      "BasePath": "_content/Pizza_System",
+      "RelativePath": "lib/foolproof-validation/mvcfoolproof.core.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\foolproof-validation\\mvcfoolproof.core.js"
+    },
+    {
+      "Identity": "C:\\Users\\buqaa\\Documents\\C# Practise\\C# Web API\\Pizza_System\\Pizza_System\\wwwroot\\lib\\foolproof-validation\\mvcfoolproof.jquery.validation.js",
+      "SourceId": "Pizza_System",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\buqaa\\Documents\\C# Practise\\C# Web API\\Pizza_System\\Pizza_System\\wwwroot\\",
+      "BasePath": "_content/Pizza_System",
+      "RelativePath": "lib/foolproof-validation/mvcfoolproof.jquery.validation.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\foolproof-validation\\mvcfoolproof.jquery.validation.js"
+    },
+    {
+      "Identity": "C:\\Users\\buqaa\\Documents\\C# Practise\\C# Web API\\Pizza_System\\Pizza_System\\wwwroot\\lib\\foolproof-validation\\mvcfoolproof.msajax.validation.js",
+      "SourceId": "Pizza_System",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\buqaa\\Documents\\C# Practise\\C# Web API\\Pizza_System\\Pizza_System\\wwwroot\\",
+      "BasePath": "_content/Pizza_System",
+      "RelativePath": "lib/foolproof-validation/mvcfoolproof.msajax.validation.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\foolproof-validation\\mvcfoolproof.msajax.validation.js"
+    },
+    {
+      "Identity": "C:\\Users\\buqaa\\Documents\\C# Practise\\C# Web API\\Pizza_System\\Pizza_System\\wwwroot\\lib\\foolproof-validation\\mvcfoolproof.unobtrusive.js",
+      "SourceId": "Pizza_System",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\buqaa\\Documents\\C# Practise\\C# Web API\\Pizza_System\\Pizza_System\\wwwroot\\",
+      "BasePath": "_content/Pizza_System",
+      "RelativePath": "lib/foolproof-validation/mvcfoolproof.unobtrusive.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\foolproof-validation\\mvcfoolproof.unobtrusive.js"
+    }
+  ]
+}
