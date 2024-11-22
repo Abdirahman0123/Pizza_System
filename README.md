@@ -14,5 +14,5 @@ Functions:
 *	Integration testing with Test containers
 
 login credentials for manager user
-email: manager@hotmail.com
-password: 
+* email: manager@hotmail.com
+* password: manager@hotmail.com
